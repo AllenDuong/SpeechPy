@@ -1,6 +1,5 @@
 # SpeechPy
-This a beginners exploration into Speech Recognition in Python
-Inspiration derived from [RealPython Article](https://realpython.com/python-speech-recognition/) "The Ultimate Guide To Speech Recognition With Python"
+This a beginners exploration into Speech Recognition in Python.<br/> Inspiration derived from [RealPython Article](https://realpython.com/python-speech-recognition/) "The Ultimate Guide To Speech Recognition With Python."
 
 Packages Used:
 - Python v3.6.4
