@@ -3,7 +3,7 @@
 Packages Used:
 - Python v3.6.4
 - SpeechRecognition v3.8.1
-- google-cloud-speech API v0.36.0
+- Google Cloud Speech API v0.36.0
 
 
 TYPE INTRO HERE
