@@ -1,7 +1,8 @@
 # SpeechPy
 ## Beginner Exploration: Speech Recognition in Python
 Packages Used:
-- SpeechRecognition
+- Python v3.6.4
+- SpeechRecognition v3.8.1
 - google-cloud-speech API
 
 
