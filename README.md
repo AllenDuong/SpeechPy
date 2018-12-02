@@ -4,6 +4,7 @@ This a beginners exploration into Speech Recognition in Python.<br/> Inspiration
 Packages Used:
 - Python v3.6.4
 - [PyDub](http://pydub.com/)
+- PyAudio v0.2.11 + PortAudio v19.0
 - SpeechRecognition v3.8.1
 - Google Cloud Speech API v0.36.0
 
