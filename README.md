@@ -18,6 +18,8 @@ Packages Used:
 
 TYPE INTRO HERE
 
+## Notes:
+- Run ```$ python -m speech_recognition ``` to do microphone based live Speech Recognition
 
 ## Getting started
 
