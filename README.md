@@ -12,6 +12,8 @@ Packages Used:
 - [ ] Process Multiple Files Using RegEx
 - [ ] Live Audio Capability
 - [ ] Video Captioning + Output Log with Timestamps
+- [ ] Reduce Noise via [DSP Filters](https://stackoverflow.com/questions/45118109/python-algorithm-to-denoise-wav-file) before Analysis
+- [ ]
 
 TYPE INTRO HERE
 
