@@ -7,10 +7,10 @@ Packages Used:
 - Google Cloud Speech API v0.36.0
 
 ## To Do
-[] Auto Convert Incorrect Filetypes
-[] Process Multiple Files Using RegEx
-[] Live Audio Capability
-[] Video Captioning + Output Log with Timestamps
+- [ ] Auto Convert Incorrect Filetypes
+- [ ] Process Multiple Files Using RegEx
+- [ ] Live Audio Capability
+- [ ] Video Captioning + Output Log with Timestamps
 
 TYPE INTRO HERE
 
