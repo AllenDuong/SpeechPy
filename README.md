@@ -15,6 +15,7 @@ Packages Used:
 - [ ] Video Captioning + Output Log with Timestamps
 - [ ] Reduce Noise via [DSP Filters](https://stackoverflow.com/questions/45118109/python-algorithm-to-denoise-wav-file) before Analysis
 - [ ] Combine Seperate Microphone and Audio File Functions with a Param
+- [ ] Use ```try``` and ```Except``` block with UnknownValueError for Calls to the API
 
 TYPE INTRO HERE
 
