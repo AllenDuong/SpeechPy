@@ -79,11 +79,6 @@ def recognizeMic():
 
 	# Analyze with Google Cloud Speech
 
-	
-
-
-
-
 def convert2WAV():
 	pass
 
